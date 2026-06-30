@@ -1,0 +1,5 @@
+name,email,phone,title,company,location,linkedin,github,skills
+Priya Sharma,priya.sharma@example.com,+919876543210,Senior Software Engineer,Eightfold AI,"Bangalore, Karnataka, India",https://www.linkedin.com/in/priyasharma,priyasharma-dev,"Python, Machine Learning, Django, PostgreSQL, AWS"
+Rahul Mehta,rahul.mehta@example.com,9123456789,Backend Developer,Flipkart,"Mumbai, Maharashtra, India",https://linkedin.com/in/rahulmehta,rahul-mehta,"Java, Spring Boot, Kubernetes, Docker, Kafka"
+Alice Johnson,alice.j@example.com,INVALID_PHONE,Product Manager,Google,"San Francisco, CA, US",,,"Agile, SQL, Figma, Python"
+,missing_email_field,+14155551234,Data Scientist,,"New York, NY, US",,,

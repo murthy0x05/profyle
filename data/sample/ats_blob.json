@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Priya Sharma",
+    "email": "priya.sharma@example.com",
+    "phone": "+91 98765 43210",
+    "title": "Senior ML Engineer",
+    "company": "Eightfold AI",
+    "location": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "country": "India"
+    },
+    "linkedin": "https://linkedin.com/in/priyasharma",
+    "github": "priyasharma-dev",
+    "skills": ["Python", "TensorFlow", "ML", "Deep Learning", "AWS", "Django"],
+    "experience": [
+      {
+        "company": "Eightfold AI",
+        "title": "Senior ML Engineer",
+        "start_date": "2022-03",
+        "end_date": null,
+        "description": "Leading ML platform development for talent intelligence."
+      },
+      {
+        "company": "Infosys",
+        "title": "Software Engineer",
+        "start_date": "2018-07",
+        "end_date": "2022-02",
+        "description": "Backend services and data pipelines."
+      }
+    ],
+    "education": [
+      {
+        "institution": "IIT Bombay",
+        "degree": "B.Tech",
+        "field_of_study": "Computer Science",
+        "graduation_year": 2018
+      }
+    ],
+    "years_experience": 7,
+    "headline": "ML Engineer passionate about talent intelligence"
+  },
+  {
+    "name": "Rahul Mehta",
+    "email": "rahul.mehta@example.com",
+    "phone": "+91 91234 56789",
+    "title": "Senior Backend Developer",
+    "company": "Flipkart",
+    "location": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India"
+    },
+    "skills": [
+      {"name": "Java"},
+      {"name": "Spring Boot"},
+      {"name": "K8s"},
+      {"name": "Docker"},
+      {"name": "Apache Kafka"},
+      {"name": "Redis"}
+    ],
+    "experience": [
+      {
+        "company": "Flipkart",
+        "title": "Senior Backend Developer",
+        "start": "2020-01",
+        "end": null
+      }
+    ],
+    "years_experience": 6,
+    "headline": "Distributed systems engineer"
+  },
+  {
+    "full_name": "Sneha Patel",
+    "emails": ["sneha.p@example.com"],
+    "phones": ["+14085551234"],
+    "title": "Frontend Engineer",
+    "current_company": "Netflix",
+    "location": "San Jose, CA, US",
+    "linkedin_url": "https://linkedin.com/in/snehapatel",
+    "github_url": "https://github.com/sneha-codes",
+    "skills": ["React", "TypeScript", "CSS", "GraphQL", "Node.js"],
+    "experience": [
+      {
+        "organization": "Netflix",
+        "role": "Frontend Engineer",
+        "start": "2021-06",
+        "end": null
+      }
+    ],
+    "education": [
+      {
+        "school": "Stanford University",
+        "degree": "MS",
+        "major": "Computer Science",
+        "year": 2021
+      }
+    ],
+    "years_experience": 4
+  }
+]

@@ -1,0 +1,30 @@
+Recruiter Notes — Q3 Candidate Pipeline
+
+Spoke with Priya Sharma on 2024-06-15. Very strong Python and ML background.
+Currently at Eightfold AI. Email: priya.sharma@example.com
+Phone: +91 9876543210
+LinkedIn: https://linkedin.com/in/priyasharma
+GitHub: https://github.com/priyasharma-dev
+
+Priya has excellent communication skills and deep expertise in TensorFlow
+and PyTorch. She mentioned interest in moving to a more senior role.
+Has experience with distributed systems and real-time ML inference.
+
+---
+
+Candidate: Vikram Reddy
+Title: DevOps Lead
+Currently at Razorpay
+Email: vikram.r@example.com
+Phone: 8801234567
+Skills: Kubernetes, Docker, Terraform, AWS, Jenkins, CI/CD, Linux, Ansible
+LinkedIn: https://linkedin.com/in/vikramreddy
+
+Vikram is looking for a principal-level role. 8+ years of experience.
+Strong in infrastructure automation and cloud architecture.
+
+---
+
+Also met with Alice Johnson — she's at Google doing product management.
+Her email is alice.j@example.com. Knows SQL, Python, and data analysis.
+Seemed less technical than other candidates but strong on strategy.

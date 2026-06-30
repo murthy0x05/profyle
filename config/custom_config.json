@@ -1,0 +1,10 @@
+{
+  "fields": [
+    {"path": "full_name", "type": "string", "required": true},
+    {"path": "emails", "type": "array", "required": true},
+    {"path": "headline", "type": "string", "required": false},
+    {"path": "skill_names", "type": "array", "required": false, "from": "skills[].name"}
+  ],
+  "include_confidence": false,
+  "on_missing": "omit"
+}
