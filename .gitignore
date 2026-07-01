@@ -7,3 +7,5 @@ output_custom/
 .venv/
 venv/
 env/
+
+DEMO_VIDEO.mp4
